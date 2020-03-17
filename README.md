@@ -1,2 +1,3 @@
-#This store is small
+
+# This store has dog
 
