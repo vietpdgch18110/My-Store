@@ -1,1 +1,1 @@
-# My-Store
+# This store was sold!
