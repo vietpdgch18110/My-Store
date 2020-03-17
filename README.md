@@ -1,1 +1,1 @@
-# This store was sold!
+# This store has puppy
