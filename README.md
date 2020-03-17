@@ -1,1 +1,2 @@
-# This store was sold!
+#This store is small
+
